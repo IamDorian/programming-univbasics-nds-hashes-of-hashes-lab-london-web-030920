@@ -61,7 +61,7 @@ starting_node =
           }
         }
         }
-      }}
+      }
 
  return starting_node
 end
